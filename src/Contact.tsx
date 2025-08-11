@@ -269,8 +269,7 @@ ${formData.message}
                 <div>
                   <p className="text-gray-300">
                     Team Udupi, PB-F, Delhi Technological University, Bawana, New Delhi - 110042<br />
-                    Udupi, Karnataka 576101<br />
-                    India
+                    
                   </p>
                 </div>
               </div>
@@ -291,7 +290,7 @@ ${formData.message}
                   </svg>
                 </div>
                 <a href="mailto:contact@teamudupi.space" className="text-gray-300 hover:text-cyan-400 transition-colors">
-                  contact@teamudupi.space
+                  teamcansat@gmail.com
                 </a>
               </div>
             </div>

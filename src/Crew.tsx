@@ -79,12 +79,6 @@ const Crew = () => {
       image: "priyanshu.jpg"
     },
     {
-      name: "Aaryan Sachdeva",
-      position: "Team Head",
-      subsystem: "Avionics",
-      image: "aaryan.jpg"
-    },
-    {
       name: "Nithya Ajayan",
       position: "Team Co-Head",
       subsystem: "Avionics",
@@ -101,12 +95,6 @@ const Crew = () => {
       position: "Member",
       subsystem: "Avionics",
       image: "nakul.jpg"
-    },
-    {
-      name: "Ayush Thakur",
-      position: "Member",
-      subsystem: "Avionics",
-      image: "ayush.jpg"
     },
     {
       name: "Saksham Sharma",
@@ -130,13 +118,13 @@ const Crew = () => {
       name: "Maanit Arora",
       position: "Software Head",
       subsystem: "Software",
-      image: ""
+      image: "manit.png"
     },
     {
       name: "Prem Kumar",
       position: "Member",
       subsystem: "Software",
-      image: "prem.jpg"
+      image: "prem.jpeg"
     }
   ];
 
